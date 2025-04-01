@@ -74,7 +74,7 @@ python manage.py runserver
 
 ## 📌 API Endpoints
 
-Visit http://127.0.0.1:8000/redoc/ to see api endpoints
+After running development server, visit http://127.0.0.1:8000/redoc/ to see api endpoints
 
 ## 📜 Database Schema
 
