@@ -54,8 +54,9 @@ ALLOWED_HOSTS = [
 
 # Application definition
 LOCAL_APPS = [
-    "apps.users",
     "apps.bookings",
+    "apps.common",
+    "apps.users",
 ]
 
 THIRD_PARTY_APPS = [

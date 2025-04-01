@@ -1,5 +1,5 @@
 from rest_framework import viewsets, permissions
-from common.permissions import IsOrganizer, IsArtist
+from apps.common.permissions import IsOrganizer, IsArtist
 from .models import Event, Booking
 from .serializers import EventSerializer, BookingSerializer
 
